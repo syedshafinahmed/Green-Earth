@@ -1,4 +1,5 @@
-# 🔗 API Endpoints
+# <img width="25px" src="./assets/favicon.png" /> GREEN EARTH
+## 🔗 API Endpoints
 ### All Plants
 ```bash
 https://openapi.programming-hero.com/api/plants
@@ -15,3 +16,6 @@ https://openapi.programming-hero.com/api/category/${id}
 ```bash
 https://openapi.programming-hero.com/api/plant/${id}
 ```
+
+# Live Link
+https://greenearth-syedshafinahmed.netlify.app/
